@@ -1,6 +1,6 @@
 # This frontend is used in conjunction with the PID Controller Back End
 
-# 1. Clone this repository
+# 1. Clone this repository: ( git clone https://github.com/theodryden/TDTechnicalSubmissionFrontEnd.git )
 
 # 2. Run the React Server using npm start
 ![Screenshot 2024-08-31 at 20 34 31](https://github.com/user-attachments/assets/30863525-0150-49d6-ae23-74ff5d0ca168)
